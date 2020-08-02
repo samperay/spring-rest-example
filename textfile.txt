@@ -1,0 +1,1 @@
+this is a new text file in feature branch. if successfully build will be merged to master by teamcity
